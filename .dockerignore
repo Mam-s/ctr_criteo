@@ -1,0 +1,10 @@
+.venv
+.git
+data
+notebooks
+scripts
+tests
+models/transformer.pt
+__pycache__
+.pytest_cache
+.DS_Store
